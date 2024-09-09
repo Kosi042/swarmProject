@@ -13,7 +13,6 @@ class Environment:
 
     def update(self):
         self.game_display.fill((255, 255, 255))
-        pygame.display.update()
         self.clock.tick(60)
 
 
