@@ -1,3 +1,4 @@
 requirements:
 pygame 
 numpy
+matplotlib
